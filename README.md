@@ -1,6 +1,6 @@
 
 #Ubuntu git 설치
-#sudo apt-get install git   
+sudo apt-get install git   
 
 
 
